@@ -1,7 +1,7 @@
 # Rails Generators
 
 If you go down the list on all of the tasks necessary to build out CRUD functionality in an application, it's quite extensive. From creating database tables, configuring views, and drawing individual routes, the feature builds can be time consuming and bug prone. Wouldn't it be nice if there was a more efficient way of integrating standard features instead of having to build them manually each time?
-
+delet this
 A primary goal of the Rails team was to make it efficient to build core application functionality. The Rails system has a number of generators that will do some of the manual work for us.
 
 As nice as it is to use the generators to save time, they also provide some additional extra benefits:
