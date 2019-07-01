@@ -4,7 +4,7 @@ RSpec.describe CategoriesController, type: :controller do
 
   describe "GET #show" do
     it "returns http success" do
-      category = Category.create(name: 'category')
+      category = Category.new(name: 'category')
 
       get :show, id: category.id
 
